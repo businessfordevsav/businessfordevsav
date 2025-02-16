@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, kotlin, xml, html, css
+- **Languages:** Java, kotlin, JavaScript, Python, html, css
 - **Frameworks:** React, Node.js, Express, Flutter, ktor
 - **Databases:** MongoDB, MySQL, postgresql
 - **Tools:** Git, Docker, Jenkins
