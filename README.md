@@ -22,7 +22,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📈 GitHub Stats
 
-![Deval's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessfordevsav&show_icons=true&theme=radical)
+|                Deval's GitHub stats                 |              Deval's Most Used Language              |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+| ![Deval's GitHub stats](https://github-readme-stats.vercel.app/api?username=businessfordevsav&show_icons=true&theme=radical) | ![Deval's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=businessfordevsav&show_icons=true&locale=en&layout=compact) |
 
 ## 📫 How to Reach Me
 
