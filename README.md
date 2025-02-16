@@ -2,8 +2,6 @@
 
 🚀 *"Building solutions, one line of code at a time."*  
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development and open-source contributions.
-
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in mobile development, web development and open-source contributions.
 
 ## 🔧 Technologies & Tools
